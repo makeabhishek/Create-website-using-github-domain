@@ -1,4 +1,4 @@
-# Steps to create a website on Github
+# Steps to create a simple website on Github using .md file.
 Go to github. com. Login and create nw repository. Choose the name as your given username followed by'.github.io'. Fir example "mywebpage.github.io"
 
 # Github Markdown
