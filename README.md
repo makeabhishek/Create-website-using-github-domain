@@ -5,3 +5,9 @@ This repository enlist the set of instructions to create a webpage on github.io 
 
 Follow Instructions.md file.
 
+I list two different ways to create a website:
+(1) Using a simple markdown method in .md file.
+(2) Using CSS-html file.
+
+
+
