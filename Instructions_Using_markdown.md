@@ -106,3 +106,12 @@ we can add additional websites with a subdirectory.
 3. Wait for some time to upload the website. Serch the url For example: mywebpage.github.io/demo/
 
 ## the End!
+
+## Add colour to text
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
